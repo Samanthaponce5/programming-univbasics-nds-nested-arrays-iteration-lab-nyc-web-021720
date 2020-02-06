@@ -53,7 +53,7 @@ def total_even_pairs(src)
   total
 end
 
-total_even_pairs(src)
+
     
 
 
