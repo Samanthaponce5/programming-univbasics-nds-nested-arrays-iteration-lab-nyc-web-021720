@@ -16,8 +16,16 @@ new
 end
 
 
+
 def find_greater_pair(src)
- src
+  arr = []
+ i = 0 
+ while i < src.length
+arr << src[i].max
+   i += 1
+  end
+arr
+end
   end
  
         
